@@ -1,1 +1,2 @@
-glinford & jquilez Final Infographie Project @42
+Gregory LINFORD and Julien Quilez project for School 42.
+(Marked: 17/20)
